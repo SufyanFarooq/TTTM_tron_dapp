@@ -1,0 +1,125 @@
+{
+    "Home":{
+        "1":"Home"
+    },
+    "whatistttm":{
+        "1": "What is TTTM"
+    },
+    "intrototttm":{
+        "1": "Intro To TTTM"
+    },
+    "videoads":{
+        "1": "Video Ads"
+    },
+    "videointro":{
+        "1": "Video Intro"
+    },
+    "howtouse":{
+        "1": "How to use TTTM"
+    },
+    "smartcontract":{
+        "1": "Smart Contract"
+    },
+    "audit":{
+        "1": "Audit"
+    },
+    "telegram":{
+        "1": "Telegram"
+    },
+    "english":{
+        "1": "English"
+    },
+    "chinese":{
+        "1": "Chinese"
+    },
+
+    "Thanks":{
+        "1": "Thank You"
+    },
+    "why":{
+        "1": "For VIsiting US!"
+    },
+    "h1":{
+        "1": "Tron To The Moon"
+    },
+    "p":{
+        "1": "World's First Tron Bank"
+    },
+    "spanmyreferal":{
+        "1": "My Referral link:"
+    },
+    "spanreferal":{
+        "1": "Referral:"
+    },
+    "tttmmarketcap":{
+        "1": "TTTM Market Cap"
+    },
+    "tttmmarketcirculationupply":{
+        "1": "TTTM Circulation Supply"
+    }
+
+
+    ,
+    "tttmbalance":{
+        "1": "TTTM Balance"
+    },
+    "trxbalance":{
+        "1": "TRX Balance"
+    },
+    "withdraw":{
+        "1": "Withdraw"
+    },
+    "totaltrxdeposit":{
+        "1": "Total TRX Deposited"
+    },
+    "totaltrxwithdrawn":{
+        "1": "Total TRX Withdrawn"
+    },
+    "tttmbuyingprice":{
+        "1": "TTTM Buying Price"
+    },
+    "youwillreceive":{
+        "1": "You Will Receive"
+    },
+    "buytttm":{
+        "1": "Buy TTTM"
+    },
+    "TTTM":{
+        "1": "TTTM"
+    },
+    "tttmsellingprice":{
+        "1": "TTTM Selling Price"
+    },
+    "youwillreceiv":{
+        "1": "You Will Receive"
+    },
+    "selltttm":{
+        "1": "Sell TTTM"
+    },
+    "buytransactions":{
+        "1": "Buy Transactions"
+    },
+    "transactions":{
+        "1": "Transactions"
+    },
+    "tokenamount":{
+        "1": "Token Amount"
+    },
+    "TRX":{
+        "1": "TRX"
+    },
+    "selltransactions":{
+        "1": "Sell Transactions"
+    },
+    "withdrawtransactions":{
+        "1": "Withdraw Transactions"
+    },
+    "nature":{
+        "1": "Nature"
+    },
+    "allrightsreseved":{
+        "1": "All Rights Reserved 2021 @ TTTM"
+    }
+    
+    
+}

@@ -1,0 +1,258 @@
+/* background-color: white; */
+.front-body {
+  color: black;
+  background-color: #0a1930;
+  padding: 0;
+  margin: 0;
+}
+
+.nav {
+  height: 100px;
+  /* background-color: bisque; */
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  margin: 5px 0px 0px 30px;
+  padding: 0;
+}
+.bell-icon {
+  height: 50px;
+  width: 50px;
+}
+.App-items {
+  display: flex;
+  color: black;
+  align-self: center;
+  justify-self: center;
+  padding: 5px 0px;
+  cursor: pointer;
+}
+.App-nav-items {
+  padding: 5px 30px;
+}
+
+
+/* border: rgb(115, 186, 252) 2px solid;  */
+
+.trx-icon {
+  height: 25px;
+  width: auto;
+  padding: 0px 0px 0px 30px;
+}
+.trx-icon-small {
+  font-size: 10pt;
+  color: rgb(88, 88, 88);
+  padding: 0px;
+}
+.trx-icon-text {
+  padding: 0px;
+  margin: 0px;
+}
+
+.header-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 60px 10px 25px;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 60px 10px 60px;
+}
+.header-content p {
+  color: white;
+  font-size: 50pt;
+  font-weight: 700;
+  text-align: left;
+}
+.header-content h1 {
+  color: white;
+  font-size: 25pt;
+  text-align:left;
+}
+
+.referel {
+  margin: 60px 0px 20px 0px;
+  padding: 15px;
+}
+
+.inreferal {
+  display: flex;
+  border: "1px white solid";
+  background-color: "white";
+  align-items: "center";
+}
+.buttons {
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+}
+.statistics {
+  font-size: 14pt;
+  font-weight: 400;
+  color: white;
+  margin: 10px 10px 0px;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+}  
+.statistics .depostdiv{
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-row {
+  padding: 0;
+}
+.copy {
+  height: 25px;
+  width: auto;
+  margin: 10px;
+  cursor: pointer;
+}
+.radical{
+ background-image: url(../asset//images/ellipsee.png); 
+ /* Full height */
+ /* height: 1200px; */
+
+ /* Center and scale the image nicely */
+ /* background-position: center;*/
+ background-repeat: no-repeat;
+ background-size: cover; 
+ /*  */
+  /* background-repeat: no-repeat;
+  background-size: auto; */
+}
+.radicaldesign{
+  position: absolute;
+width: 1111px;
+height: 1111px;
+left: 1312px;
+top: 209px;
+
+background: radial-gradient(62.51% 62.51% at 22.01% 21.83%, #B5DCE5 0%, rgba(181, 220, 229, 0) 100%), #516BAE;
+box-shadow: 0px 0px 61px rgba(10, 25, 48, 0.1);
+
+}
+.botbtn {
+  margin-top: 30px;
+}
+/* @media (max-width: 1200px) {
+  #nav {
+    margin-top: 20px;
+  }
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 60px 0px 60px;
+  }
+  .main-content p {
+    color: white;
+    font-size: 40pt;
+  }
+  .main-content h1 {
+    color: white;
+    font-size: 25pt;
+  }
+} */
+/* @media (max-width: 1092px) {
+  #nav {
+    margin-top: 200px;
+  }
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 40px 0px 40px;
+  }
+  .main-content p {
+    color: white;
+    font-size: 40pt;
+  }
+  .main-content h1 {
+    color: white;
+    font-size: 25pt;
+  }
+} */
+
+@media (max-width: 600px) {
+  .front-body {
+    background-color: #0a1930;
+    color: black;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav-row {
+    padding: 0px 20px;
+  }
+  .logo {
+    height: 100px;
+    width: 100px;
+    margin: 0px 0px 0px 30px;
+  }
+  .bell-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .App-items {
+    display: flex;
+    color: black;
+    align-self: center;
+    justify-self: center;
+    padding: 5px 0px;
+  }
+ 
+  .trx-icon {
+    height: 15px;
+    width: auto;
+    padding: 0px 0px 0px 30px;
+  }
+  .trx-icon-small {
+    font-size: 10pt;
+    color: rgb(88, 88, 88);
+    padding: 0px;
+  }
+  .trx-icon-text {
+    padding: 0px;
+    margin: 0px;
+  }
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px 10px;
+  }
+  .main-content p {
+    font-size: 40pt;
+  }
+  .main-content h1 {
+    color: white;
+    font-size: 20pt;
+  }
+
+  .referel {
+    margin: 60px 0px 20px 5px;
+    padding: 15px 5px;
+  }
+  .inreferal {
+    display: flex;
+    border: "1px white solid";
+    background-color: "white";
+    align-items: "center";
+  }
+  .buttons {
+    -ms-flex: 1; /* IE 10 */
+    flex: 1;
+  }
+  .statistics {
+    font-size: 11pt;
+    color: white;
+    margin: 10px 0px;
+    padding: 0;
+  }
+  .statistics .depostdiv{
+    display: flex;
+    justify-content: flex-start;
+  }
+}

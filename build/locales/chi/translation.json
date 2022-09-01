@@ -1,0 +1,118 @@
+{
+    "Home":{
+        "1":"首页"
+    },
+    "whatistttm":{
+        "1": "什么是TTTM"
+    },
+    "intrototttm":{
+        "1": "智能合约"
+    },
+    "videoads":{
+        "1": "视频广告"
+    },
+    "videointro":{
+        "1": "视频介绍"
+    },
+    "howtouse":{
+        "1": "如何使用TTTM"
+    },
+    "smartcontract":{
+        "1": "智能合约"
+    },
+    "audit":{
+        "1": "审计"
+    },
+    "telegram":{
+        "1": "电报"
+    },
+    "english":{
+        "1": "英语"
+    },
+    "chinese":{
+        "1": "中文"
+    },
+    "h1":{
+        "1": "波场奔月，剩者为王"
+    },
+    "p":{
+        "1": "全球首家波场银行"
+    },
+    "spanmyreferal":{
+        "1": "我的推荐链接:"
+    },
+    "spanreferal":{
+        "1": "转介:"
+    },
+    "tttmmarketcap":{
+        "1": "TTTM 市值"
+    },
+    "tttmmarketcirculationupply":{
+        "1": "TTTM流通供应"
+    }
+
+
+    ,
+    "tttmbalance":{
+        "1": "TTTM余额"
+    },
+    "trxbalance":{
+        "1": "TRX余额"
+    },
+    "withdraw":{
+        "1": "提取"
+    },
+    "totaltrxdeposit":{
+        "1": "总 TRX 存入"
+    },
+    "totaltrxwithdrawn":{
+        "1": "提取的 TRX 总数"
+    },
+    "tttmbuyingprice":{
+        "1": "TTTM买入价"
+    },
+    "youwillreceive":{
+        "1": "您将收到"
+    },
+    "buytttm":{
+        "1": "购买 TTTM"
+    },
+    "TTTM":{
+        "1": "TTTM"
+    },
+    "tttmsellingprice":{
+        "1": "TTTM 售价"
+    },
+    "youwillreceiv":{
+        "1": "您将收到"
+    },
+    "selltttm":{
+        "1": "卖 TTTM"
+    },
+    "buytransactions":{
+        "1": "购买交易"
+    },
+    "transactions":{
+        "1": "交易"
+    },
+    "tokenamount":{
+        "1": "代币数量"
+    },
+    "TRX":{
+        "1": "TRX"
+    },
+    "selltransactions":{
+        "1": "卖出交易"
+    },
+    "withdrawtransactions":{
+        "1": "提取交易"
+    },
+    "nature":{
+        "1": "种类"
+    },
+    "allrightsreseved":{
+        "1": "版权所有 2021 @ TTTM"
+    }
+    
+    
+}

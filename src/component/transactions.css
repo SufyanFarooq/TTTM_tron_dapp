@@ -1,0 +1,183 @@
+#transactionscren{
+    color: rgb(211, 207, 207);
+    background-color: #0a1930;
+    text-align: center;
+    padding: 2em 0em 0em 0em;
+}
+.col-md-2{
+    font-size: 15pt;
+}
+.col-md-3{
+    font-size: 15pt;
+}
+.col-md-4{
+    font-size: 15pt;
+}
+.col-md-5{
+        font-size: 15pt;
+    }
+
+ .buyer{
+    width: auto;
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+    background: transparent;
+    border: none;
+    color: rgb(211, 207, 207);
+    cursor: default;
+}
+
+.col-2{
+    font-size: 15pt;
+}
+.col-3{
+    font-size: 15pt;
+}
+.col-4{
+    font-size: 15pt;
+}
+.col-5{
+        font-size: 15pt;
+    }
+
+.col-5 .buyer{
+    width: 100px;
+    white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* 
+    text-align: left;
+     */
+h1{
+    color: white;
+    padding: 12px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15pt;
+}
+
+.cradview{
+    margin: 0em 0em 2em;
+    background-color: #1f2b41;
+    border-radius: 25px;
+}
+
+.sellTransaction{
+    color: white;
+    background-color: #fe4447;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.withdrawTransaction{
+    color: white;
+    background-color: #2e75dd;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.buyTransaction{
+    color: white;
+    background-color: #21bf74;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+
+h2{
+    text-align: center;
+    background-color: rgb(130, 128, 128);
+    padding: 1px;
+    margin: 2em 0em 1em 0em;
+    font-weight: 100;
+}
+hr{
+    border: 0.2px solid rgb(130, 128, 128);
+    background-color: wheat;
+    margin: 0px 15px;
+}
+
+@media (max-width: 576px) {
+    #transactionscren{
+        color: rgb(211, 207, 207);
+        background-color: #0a1930;
+        text-align: center;
+        padding: 2em 0em 0em 0em;
+    }
+    
+    .col-2{
+        font-size: 12pt;
+    }
+    .col-3{
+        font-size: 12pt;
+    }
+    .col-4{
+        font-size: 12pt;
+    }
+    .col-5{
+            font-size: 12pt;
+        }
+    
+     .buyer{
+        width: 90px;
+        white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+        background: transparent;
+        border: none;
+        color: rgb(211, 207, 207);
+        cursor: text;
+    }
+    h1{
+        color: white;
+        padding: 12px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 15pt;
+    }
+    
+    .cradview{
+        margin: 0em 0em 2em;
+        background-color: #1f2b41;
+        border-radius: 25px;
+    }
+    
+    .sellTransaction{
+        color: white;
+        background-color: #fe4447;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+    
+    .withdrawTransaction{
+        color: white;
+        background-color: #2e75dd;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+    
+    .buyTransaction{
+        color: white;
+        background-color: #21bf74;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+    
+    
+    h2{
+        text-align: center;
+        background-color: rgb(130, 128, 128);
+        padding: 1px;
+        margin: 2em 0em 1em 0em;
+        font-weight: 100;
+    }
+    hr{
+        border: 0.2px solid rgb(130, 128, 128);
+        background-color: wheat;
+        margin: 0px 15px;
+    }
+    
+}

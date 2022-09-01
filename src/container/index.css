@@ -1,0 +1,263 @@
+/* background-color: white; */
+.front-body {
+  color: black;
+  padding: 0;
+  margin: 0;
+  /* background-image: url(../asset//images/asssetbg.jpg); */
+  background-color: #0a1930;
+}
+.container-fluid{
+  background-color: #0a1930;
+}
+.nav {
+  height: 100px;
+  /* background-color: bisque; */
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+  margin: 5px 0px 0px 30px;
+  padding: 0;
+}
+.bell-icon {
+  height: 50px;
+  width: 50px;
+}
+.App-items {
+  display: flex;
+  color: black;
+  align-self: center;
+  justify-self: center;
+  padding: 5px 0px;
+  cursor: pointer;
+}
+.App-nav-items {
+  padding: 5px 30px;
+}
+.App-items:hover {
+  color: rgb(88, 65, 219);
+  font-weight: 500;
+}
+
+/* border: rgb(115, 186, 252) 2px solid;  */
+.paragon {
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0px;
+  margin: 40px 10px 10px 10px;
+  background-color: white;
+}
+.trx-icon {
+  height: 15px;
+  width: auto;
+  padding: 0px;
+}
+
+.trx-icon-text {
+  font-weight: 600;
+  font-size: 15pt;
+  padding: 20px;
+  margin: 0px;
+}
+.main-content {
+  display: flex;
+  flex-direction: column;
+  padding: 10px 10px 10px 10px;
+  margin: 0em 0em 0em 0em;
+}
+.main-design {
+  border-radius: 20px;
+  margin: 50px 0px 30px;
+  background-color: #1f2b41;
+}
+/* box-shadow: 0px 0px 50px #7a7575; */
+.main-design-small {
+  border-radius: 200px;
+  margin: 50px 40px 20px;
+  background-color: #0a1930;
+  padding: 10px;
+}
+.form-control{
+  background-color: #0a1930;
+  border: transparent;
+  border-radius: 10px;
+}
+.referel {
+  margin: 60px 0px 20px 0px;
+  padding: 15px;
+}
+.my-referel {
+  margin: 30px 80px 30px 0px;
+  padding: 20px;
+  font-weight: 700;
+}
+.inreferal {
+  display: flex;
+  border: "1px white solid";
+  background-color: "white";
+  align-items: "center";
+}
+.buttons {
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+}
+
+hr {
+  border: 1px solid rgb(242, 240, 240);
+}
+.footer {
+  background-color: white;
+  text-align: center;
+  color: brown;
+  margin-top: 100px;
+  width: 100%;
+  padding: 1px;
+}
+.nav-row {
+  padding: 0;
+}
+.copy {
+  height: 25px;
+  width: auto;
+  margin: 10px;
+  cursor: pointer;
+}
+.botbtn {
+    margin: 80px 0px 0px 20px;
+}
+.col-lg-6{
+  padding: 2em 2em 4em;
+}
+/* @media (max-width: 1092px) {
+  #nav {
+    margin-top: 0px;
+  }
+  .paragon {
+    border: rgb(115, 186, 252) 2px solid;
+    box-shadow: 1px 1px 2px rgb(96, 156, 212);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 60px 0px 60px;
+    margin: 30px 50px;
+  }
+} */
+.centralcontent{
+  margin: 1em;
+}
+@media screen and (max-width: 1200px) {
+  .trx-icon-text {
+    font-weight: 600;
+    font-size: 16pt;
+    padding: 0px;
+    margin: 0px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .front-body {
+    background-color: #0a1930;
+    color: black;
+    padding: 0;
+    margin: 0;
+  }
+
+  .nav-row {
+    padding: 0px 20px;
+  }
+  .logo {
+    height: 100px;
+    width: 100px;
+    margin: 0px 0px 0px 30px;
+  }
+  .bell-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .App-items {
+    display: flex;
+    color: black;
+    align-self: center;
+    justify-self: center;
+    padding: 5px 0px;
+  }
+  .App-items:hover {
+    color: rgb(88, 65, 219);
+    font-weight: 500;
+  }
+  .paragon {
+    border: rgb(115, 186, 252) 2px solid;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0px;
+    margin: 30px 30px;
+  }
+  .trx-icon {
+    height: 15px;
+    width: auto;
+    padding: 0px 0px 0px 30px;
+  }
+
+  .trx-icon-text {
+    font-weight: 600;
+    font-size: 20pt;
+    padding: 0px;
+    margin: 0px;
+  }
+  .centralcontent{
+    margin: 0em;
+  }
+  .col-lg-6{
+    padding: 1em;
+  }
+  .main-content {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px 10px;
+  }
+  .main-design {
+    border-radius: 20px;
+    margin: 0px 0px 20px;
+    padding: 0;
+    background-color: #1f2b41;
+  }
+  .main-design-small {
+    border-radius: 200px;
+    margin: 0px 0px 25px;
+    background-color: #0a1930;
+    margin: 30px 20px;
+    padding: 10px 2px;
+  }
+ 
+  .referel {
+    margin: 60px 0px 10px 0px;
+    padding: 15px 5px;
+  }
+  .my-referel {
+    margin: 20px 0px 10px 0px;
+    padding: 20px 10px;
+  }
+  .inreferal {
+    display: flex;
+    border: "1px white solid";
+    background-color: "white";
+    align-items: "center";
+  }
+  .buttons {
+    -ms-flex: 1; /* IE 10 */
+    flex: 1;
+  }
+  .botbtn {
+    margin: 0px 100px 20px;
+}
+  .footer {
+    width: 100%;
+    background-color: rgb(96, 156, 212);
+    text-align: center;
+    color: brown;
+  }
+}
